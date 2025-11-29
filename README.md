@@ -61,10 +61,12 @@ A modern, feature-rich calculator application built with C# and Windows Forms.
 ## 🖼️ Screenshots
 
 ### Main Calculator
-![Calculator Main](screenshot1.png)
+![Calculator Main](<img width="721" height="723" alt="image" src="https://github.com/user-attachments/assets/adc54362-7ca3-42cf-a113-cdbf37aaa22e" />
+)
 
 ### Calculation History
-![History Feature](screenshot2.png)
+![History Feature](<img width="260" height="256" alt="image" src="https://github.com/user-attachments/assets/b45cf4d2-318b-4cdf-b052-ef55ebac5a42" />
+)
 
 ## 🧪 Testing
 
