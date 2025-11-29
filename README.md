@@ -1,11 +1,8 @@
 # 🧮 Windows Calculator
 
 A modern, feature-rich calculator application built with C# and Windows Forms.
+
 <img width="360" height="361" alt="image" src="https://github.com/user-attachments/assets/32819e15-e29e-49f2-8379-4d559ba824d5" />
-
-![Calculator Screenshot](<img width="724" height="727" alt="image" src="https://github.com/user-attachments/assets/b91f8d23-1efa-4f98-9d62-65c9b4bc2387" />
-) //TODO
-
 
 
 ## ✨ Features
