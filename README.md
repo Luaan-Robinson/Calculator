@@ -56,7 +56,7 @@ A modern, feature-rich calculator application built with C# and Windows Forms.
 3. Press = to calculate the result
 4. Use Clear to reset
 5. Use Backspace to delete the last character
-6. Click "Jiggy" to view calculation history
+6. Click "HISTORY" to view calculation history
 
 ## 🖼️ Screenshots
 
