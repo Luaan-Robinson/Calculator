@@ -1,7 +1,6 @@
 # 🧮 Windows Calculator
 
-A modern, feature-rich calculator application built with C# and Windows Forms.
-
+A simple dark-themed C# Windows Forms calculator for programmers. Follows programming logic, eg- The "%" sign is treated as the modulus operator.Developed to demonstrate solid understanding of GUI design and event-driven programming,
 <img width="360" height="361" alt="image" src="https://github.com/user-attachments/assets/32819e15-e29e-49f2-8379-4d559ba824d5" />
 
 
