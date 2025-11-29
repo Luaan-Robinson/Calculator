@@ -1,7 +1,7 @@
 # 🧮 Windows Calculator
 
 A modern, feature-rich calculator application built with C# and Windows Forms.
-<img width="718" height="725" alt="image" src="https://github.com/user-attachments/assets/32819e15-e29e-49f2-8379-4d559ba824d5" />
+<img width="360" height="361" alt="image" src="https://github.com/user-attachments/assets/32819e15-e29e-49f2-8379-4d559ba824d5" />
 
 ![Calculator Screenshot](<img width="724" height="727" alt="image" src="https://github.com/user-attachments/assets/b91f8d23-1efa-4f98-9d62-65c9b4bc2387" />
 ) //TODO
@@ -62,7 +62,7 @@ A modern, feature-rich calculator application built with C# and Windows Forms.
 ## 🖼️ Screenshots
 
 ### Main Calculator
-<img width="721" height="723" alt="image" src="https://github.com/user-attachments/assets/adc54362-7ca3-42cf-a113-cdbf37aaa22e" />
+<img width="360" height="361" alt="image" src="https://github.com/user-attachments/assets/adc54362-7ca3-42cf-a113-cdbf37aaa22e" />
 
 ### Calculation History
 <img width="260" height="256" alt="image" src="https://github.com/user-attachments/assets/b45cf4d2-318b-4cdf-b052-ef55ebac5a42" />
